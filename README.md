@@ -1,4 +1,4 @@
-# 🚀 Pruebas Técnicas en Python
+# 🚀 Pruebas Técnicas en Java
 
 ¡Bienvenido al repositorio de **Pruebas Técnicas en Java**! Aquí encontrarás una colección de ejercicios técnicos resueltos en Java, organizados en diferentes categorías. Este repositorio es perfecto para mejorar tus habilidades de programación y prepararte para entrevistas técnicas.
 
